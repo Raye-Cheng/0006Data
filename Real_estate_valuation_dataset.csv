@@ -1,4 +1,4 @@
-house_price_of_unit_area,transaction_year,transaction _month,house_age,distance_to_the_nearest_MRT_station,number_of_convenience_stores,latitude,longitude
+house_price_of_unit_area,transaction_year,transaction_month,house_age,distance_to_the_nearest_MRT_station,number_of_convenience_stores,latitude,longitude
 37.9,2012,Sep,32,84.87882,10,24.98298,121.54024
 42.2,2012,Sep,19.5,306.5947,9,24.98034,121.53951
 43.1,2012,Aug,5,390.5684,5,24.97937,121.54245
